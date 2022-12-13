@@ -1,1 +1,1 @@
-# mood-based-recommendation
+# mood-based-movie-recommendation
